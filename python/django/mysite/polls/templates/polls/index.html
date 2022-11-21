@@ -1,0 +1,13 @@
+{% extends 'polls/base.html' %}
+
+    {% block content %}
+    <h2>ĐÂY LÀ VD TEMPLATES </h2>
+    <p><b>name: {{name}}</b></p>
+    <p><b>age: {{age}}</b></p>
+    <p><b>phone: {{phone}}</b></p>
+    <ul>
+        {% for item in courses %}
+            <li>{{item}}</li>
+        {% endfor %}
+    </ul>
+    {% endblock %}

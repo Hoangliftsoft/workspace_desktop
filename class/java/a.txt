@@ -1,0 +1,13 @@
+sv001 Le Van Nam true 7.8 8.2 9
+sv002 Tran Thi Be false 8.6 2.3 3
+sv003 Bao Chung true 9.2 7.9 8
+sv004 Cong Ton Sach true 8.9 6.7 9.8
+sv005 Ly Nuong Nuong false 4.5 4.9 3
+sv006 Hoang Thuong true 3.9 8.2 2.1
+sv007 Le Van Hung true 7.8 5.4 8.5
+sv008 Tran Thi Lan false 8.6 6.3 4.5
+sv009 Bao Thanh Thien true 9.2 9.3 6.2
+sv010 Cong Ton Thang true 8.9 9 7
+sv011 Ly Hue Nuong false 8.6 7 5.3
+sv012 Lao Phat Gia true 4.0 4.9 3.8
+
